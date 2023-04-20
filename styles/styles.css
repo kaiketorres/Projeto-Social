@@ -10,7 +10,7 @@ body{
     position: relative;
     height: 100vh;
     width: 100vw;
-    background: black url(/Projeto-Social/imagens/fundo-madeira.jpg) center top / cover no-repeat fixed
+    background: black url(/imagens/fundo-madeira.jpg) center top / cover no-repeat fixed
 }
 
 main{
@@ -20,10 +20,10 @@ main{
 
 #telefone{
     position: absolute;
-    background: url(/Projeto-Social/imagens/frame-iphone.png);
+    background: url(/imagens/frame-iphone.png);
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-60%, -50%);
     height: 627px;
     width: 311px;
 }
